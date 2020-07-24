@@ -1,0 +1,58 @@
+.card1,.card2,.card3{
+display: inline-block;
+    
+  
+}
+.card1{
+    padding-left:5px;
+    justify-content: center;
+    width: 29%;
+}
+.card2{
+    width: 42.1%;
+}
+.card3{
+    width: 20%;
+}
+
+.coluna1{
+    background-color: #fff;
+    height: 100vh;
+}
+.coluna2{
+    background-color: #e3e3e4;
+    height: 100vh;
+    padding: 0;
+}
+.coluna3{
+    background-color: #fff;
+    height: 100vh;
+
+}
+.cardProfile{
+    width: 100%;
+    margin-bottom: 10px;
+    margin-left: 5px;
+
+    padding: 5%;
+}
+.imgProfile{
+    display: block;
+    float: left;
+    width: 20%;
+    
+    border-radius: 50%;
+
+}
+.textCard{
+    display: block;
+    float: left;
+    width: 80%;
+    height: auto;
+}
+.cardNewPub{
+    padding: 10px;
+}
+.cardPub{
+    display: block!important;
+}

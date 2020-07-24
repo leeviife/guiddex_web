@@ -1,0 +1,11 @@
+.novoBloco2{
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+.loc2{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+     padding-right: 5%;
+}

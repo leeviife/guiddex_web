@@ -1,0 +1,28 @@
+
+   .itemMenu{
+    color:rgb(255,255,255)!important;
+
+}
+.itemMenu:hover{
+    background: rgba(41, 33, 33, 0.856);
+}
+
+.logo{
+    margin-left: 2%;
+    z-index: 1000;
+    color: rgb(3, 3, 3);
+}
+
+
+.defaultMenu{
+    text-align: center;
+    background-color: rgb(0, 0, 0, 0.5);
+}
+.estilo{
+    color: aliceblue;
+    font-family: sans-serif;   
+}
+.estilo:hover{
+    text-decoration: none;
+    color: #fff;
+}

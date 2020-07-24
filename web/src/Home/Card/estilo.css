@@ -1,0 +1,17 @@
+.novoBloco2{
+    padding-top: 5%;
+ }
+ .novoBloco2{
+    padding-bottom: 5%;
+ }
+ .cardinho{
+     border: none;
+     opacity: 0.7;
+ }
+ .cardinho:hover{
+     background: #000000;
+     color: rgb(255, 255, 255);
+     opacity:1;
+     transition: opacity .2s linear;
+     }
+ 

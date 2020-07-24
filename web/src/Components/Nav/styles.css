@@ -1,0 +1,40 @@
+
+   .itemMenu{
+       color:#fff!important;
+
+   }
+   .itemMenu:hover{
+       background: rgba(41, 33, 33, 0.856);
+   }
+
+   .logo{
+       margin-left: 2%;
+       z-index: 1000;
+       color: #fff;
+   }
+   
+
+   .defaultMenu{
+       text-align: left;
+       background-color: rgb(0, 0, 0, 0.5);
+       padding-left: 0;
+       padding-bottom: 0;
+   }
+   .estilo{
+       color: aliceblue;
+       font-family: sans-serif;   
+   }
+   .estilo:hover{
+       text-decoration: none;
+       color: #fff;
+   }
+   .logoNav{
+       width: 12%;
+       margin: 1%;
+       margin-top: 0;
+   }
+
+.MuiButton-root{
+    text-transform: none!important;
+    font-size: medium!important;
+}

@@ -1,0 +1,32 @@
+*{
+    align-items: center;
+}
+.carde{
+    width: 30%;
+    
+    
+}
+.geralRecupera{
+    height: 85vh;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+
+}
+
+.fundoRecupera{
+
+    position: absolute;
+top:0;
+z-index: -15;
+background-size: cover;
+align-items: center;
+width: 100%;
+}
+.imgRecupera{
+    width: 60%;
+}
+.cardCadastro{
+    box-shadow: 2px 2px 1em rgb(221, 218, 218);
+}

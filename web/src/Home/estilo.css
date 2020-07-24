@@ -1,0 +1,102 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    overflow-x: hidden;
+    width: 100%;
+   
+}
+.cardIndex{
+    padding-left: 0;
+    padding-right: 0;
+    margin-bottom: 50px;
+}
+.top1{
+    position: absolute;
+    top: 0;
+    background: #000;
+    z-index: -5;
+}
+.carouselIndicator{
+    padding: 2px;
+}
+.banners{
+    height: 90vh;
+
+}
+.tituloBanners{
+    bottom: 40%;
+}
+.imgBanner{
+
+    opacity: 0.4;
+}
+Nav{
+    z-index: 1000;
+    background: none;
+    color:#fff;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+}
+.text{
+    text-align: center  ;
+    color:#000;
+    align-items: center;
+    margin-top: 4%;
+    margin-bottom: 1%;
+    font-size: 2.4rem;
+    font-family: 'UberMove', 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+    font-weight: 500;
+    width: 100%;
+
+}
+.text1{
+    margin-bottom: 3%;
+    font-size: 1rem;
+    font-family: sans-serif;
+    text-align: center  ;
+    align-items: center ;
+    width: 100%;
+    
+}
+.bloc{
+    
+    background: #fff;
+    padding-left: 2%;
+    padding-right: 1%;
+    padding-bottom: 4%;
+    width: 100%;
+    
+}
+
+.bloquinho{
+    width: 95%;
+    margin-left: 2%;
+}
+.blc{
+    width: 100%;
+    height: 5%
+
+}
+.imagem{
+   width: 100%;
+}
+
+.imagem1{
+    width: 100%;
+    align-items: center;
+}.novoBloco{
+    width: 100%;
+    color:#fff;
+    background: #0e4f63;
+    
+}
+.novoBloco2{
+    
+    width: 100%;
+    background: rgb(255, 255, 255);
+}
